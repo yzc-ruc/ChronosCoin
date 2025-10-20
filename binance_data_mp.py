@@ -840,3 +840,4 @@ if __name__ == "__main__":
     # Swap_1.download_full_openInterestHist(start="2025-02-10 00:00:00", end="2025-03-09 16:15:00")
 
     print("Success!")
+
